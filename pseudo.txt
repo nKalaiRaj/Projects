@@ -1,0 +1,36 @@
+1)	Request the user to enter any number greater than or equal to zero.
+	store the entered number into a variable num1.
+	If the user input number is not equal zero then 
+	Request the user to enter any number greater than or equal to zero.
+	Check if the entered number is greater than store variable num1
+	Assign that number as largest_num.
+	Display the largest number.
+
+2) 	Request user's first name.
+	Store the name in variable first_name.
+	Display first_name concatenated with Hello World.
+
+3) 	Initial i value as 1.
+	Using loop Request enter an arbitary number upto 5 numbers.
+	Store in a variable .
+	Add all the numbers and divide by len of the numbers to find the average and store in avg.
+	Display avg.
+
+
+4)	Request user enter the list of grocery 
+	Store it in a variable Grocery_list.
+	Request user enter another list of grocery bought
+	Store it in a variable Grocery_list_bought.
+	Compare Grocery_list_bought with Grocery_list .
+	If product not present in Grocery_list_bought 
+	Display missed products in alphabetical order.
+
+
+5) 	Request user input1  X.
+	Request user input2  Y.
+	Add X and Y then store it in a variable S.
+	Divide S by 2 and store in a variable A.
+	Multiply X and Y and store in a variable P.
+	Display S.
+	Display A.
+	Display P.
